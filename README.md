@@ -73,8 +73,8 @@ Tarun-CTS-DN-5.0
 | Week 2 | ✅ Completed |
 | Week 3 | ✅ Completed |
 | Week 4 | ✅ Completed |
-| Week 5 | 🚧 In Progress  |
-| Week 6 | ⏳ Upcoming |
+| Week 5 | ✅ Completed |
+| Week 6 | 🚧 In Progress |
 | Week 7 | ⏳ Upcoming |
 
 ---
